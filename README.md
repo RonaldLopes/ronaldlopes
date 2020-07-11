@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Ronald Lopes. Welcome to my GitHub 👋 :man_technologist:
+
+- 🔭 I’m currently working on backend development
+- 🌱 I’m currently learning Flutter, Machine Learning and Java Script
+- ⚡ Check my introduction course about Tensorflow
+- 📫 How to reach me: https://www.linkedin.com/in/ronaldlopes/
+
 
 <!--
 **RonaldLopes/ronaldlopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
