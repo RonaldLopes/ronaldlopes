@@ -1,10 +1,17 @@
-### Hi, I'm Ronald Lopes. Welcome to my GitHub 👋 :man_technologist:
+### Hi, I'm Ronald Lopes. Welcome to my GitHub 👋
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/RonaldLopes)](https://github.com/RonaldLopes)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronaldlopes/)](https://www.linkedin.com/in/ronaldlopes/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ronaldlopes.developer@gmail.com)](mailto:ronaldlopes.developer@gmail.com)
 
-- 🔭 I’m currently working on backend development
-- 🌱 I’m currently learning Flutter, Machine Learning and Java Script
+I am a computer engineer who loves science, technology, and software development.
+
+## About me :man_technologist:
+
+- :rocket: I'm currently working on backend development and mobile development
+- :books: I’m currently learning Flutter, Machine Learning, Javascript and React
 - ⚡ Check my introduction course about Tensorflow
 - 📫 How to reach me: https://www.linkedin.com/in/ronaldlopes/
-
+- :video_game: :    https://ronaldlopes.github.io/flappy-js/
 
 <!--
 **RonaldLopes/ronaldlopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +26,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=&text=Hello!)](https://api.whatsapp.com/send?phone=&text=Hello!)
 -->
