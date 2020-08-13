@@ -13,6 +13,15 @@ I am a computer engineer who loves science, technology, and software development
 - 📫 How to reach me: https://www.linkedin.com/in/ronaldlopes/
 - :video_game: :    https://ronaldlopes.github.io/flappy-js/
 
+
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldLopes&layout=compact&theme=default" />
+<img align="right" width="450px" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=RonaldLopes&theme=default&show_icons=true" />
+
+
+
+
+
+
 <!--
 **RonaldLopes/ronaldlopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
