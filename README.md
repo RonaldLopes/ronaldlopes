@@ -1,7 +1,7 @@
 ### Hi, I'm Ronald Lopes. Welcome to my GitHub 👋
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/RonaldLopes)](https://github.com/RonaldLopes)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronaldlopes/)](https://www.linkedin.com/in/ronaldlopes/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ronaldlopes.developer@gmail.com)](mailto:ronaldlopes.developer@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ronaldlopes@lrgesystems.com)](mailto:ronaldlopes@lrgesystems.com)
 
 I am a computer engineer who loves science, technology, and software development.
 
